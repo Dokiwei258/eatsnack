@@ -103,7 +103,7 @@ int main()
       	      cout << game[i][j];
       	     cout << endl;
       	    }
-      	cout << "ÕâÀïÊÇÌ°³ÔÉßÓÎÏ·,wasd²Ù¿ØÉÏÏÂ×óÓÒ by wei"<<endl;
+      	cout << "ÕâÀïÊÇÌ°³ÔÉßÓÎÏ·,wasd²Ù¿ØÉÏÏÂ×óÓÒ by wei"<<endl;//dacaca
 		Sleep(300);
 		system("cls");
 }
